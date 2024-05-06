@@ -1,4 +1,4 @@
-package com.example.recyclerviewdemo
+package com.sanyam.recyclerviewdemo
 
 import org.junit.Test
 
