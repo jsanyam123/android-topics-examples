@@ -1,4 +1,4 @@
-package com.anushka.bindingdemo2
+package com.sanyam.bindingdemo2
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.anushka.bindingdemo2", appContext.packageName)
+        assertEquals("com.sanyam.bindingdemo2", appContext.packageName)
     }
 }

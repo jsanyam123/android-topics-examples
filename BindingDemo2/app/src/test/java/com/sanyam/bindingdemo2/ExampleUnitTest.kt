@@ -1,4 +1,4 @@
-package com.anushka.bindingdemo2
+package com.sanyam.bindingdemo2
 
 import org.junit.Test
 
