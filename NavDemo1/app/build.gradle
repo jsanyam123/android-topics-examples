@@ -10,7 +10,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.anushka.navdemo1"
+        applicationId "com.sanyam.navdemo1"
         minSdkVersion 22
         targetSdkVersion 29
         versionCode 1

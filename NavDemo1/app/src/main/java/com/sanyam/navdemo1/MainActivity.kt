@@ -1,9 +1,9 @@
-package com.anushka.navdemo1
+package com.sanyam.navdemo1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.anushka.navdemo1.databinding.ActivityMainBinding
+import com.sanyam.navdemo1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

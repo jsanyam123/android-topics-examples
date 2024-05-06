@@ -1,4 +1,4 @@
-package com.anushka.navdemo1
+package com.sanyam.navdemo1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.anushka.navdemo1", appContext.packageName)
+        assertEquals("com.sanyam.navdemo1", appContext.packageName)
     }
 }

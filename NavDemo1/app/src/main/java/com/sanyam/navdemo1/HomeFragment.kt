@@ -1,4 +1,4 @@
-package com.anushka.navdemo1
+package com.sanyam.navdemo1
 
 
 import android.os.Bundle
@@ -11,7 +11,7 @@ import android.widget.Toast
 import androidx.core.os.bundleOf
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
-import com.anushka.navdemo1.databinding.FragmentHomeBinding
+import com.sanyam.navdemo1.databinding.FragmentHomeBinding
 
 /**
  * A simple [Fragment] subclass.
@@ -21,7 +21,7 @@ class HomeFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         // Inflate the layout for this fragment
         binding = DataBindingUtil.inflate(inflater,R.layout.fragment_home, container, false)
         binding.button.setOnClickListener {
