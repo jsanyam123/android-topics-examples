@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.viewmodeldemo2'
+    namespace 'com.sanyam.viewmodeldemo2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.anushka.viewmodeldemo2"
+        applicationId "com.sanyam.viewmodeldemo2"
         minSdk 21
         targetSdk 33
         versionCode 1
