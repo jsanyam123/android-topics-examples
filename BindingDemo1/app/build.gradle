@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.anushka.bindingdemo1"
+        applicationId "com.sanyam.bindingdemo1"
         minSdk 21
         targetSdk 32
         versionCode 1
