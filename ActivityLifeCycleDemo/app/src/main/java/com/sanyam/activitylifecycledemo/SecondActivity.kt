@@ -1,4 +1,4 @@
-package com.anushka.activitylifecycledemo
+package com.sanyam.activitylifecycledemo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
