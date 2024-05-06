@@ -1,9 +1,9 @@
-package com.anushka.bindingdemo3
+package com.sanyam.bindingdemo3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.anushka.bindingdemo3.databinding.ActivityMainBinding
+import com.sanyam.bindingdemo3.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getStudent():Student{
-        return Student(1,"Alex","alex@gmail.com")
+        return Student(1,"Sanyam","sanyam21@gmail.com")
     }
 }

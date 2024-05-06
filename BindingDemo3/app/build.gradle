@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.bindingdemo3'
+    namespace 'com.sanyam.bindingdemo3'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.anushka.bindingdemo3"
+        applicationId "com.sanyam.bindingdemo3"
         minSdk 21
         targetSdk 32
         versionCode 1
