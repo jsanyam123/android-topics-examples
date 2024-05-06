@@ -1,4 +1,4 @@
-package com.anushka.viewmodeldemo1
+package com.sanyam.viewmodeldemo1
 
 import org.junit.Test
 
