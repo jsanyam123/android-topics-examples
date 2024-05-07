@@ -1,4 +1,4 @@
-package com.anushka.asyncawaitdemo
+package com.sanyam.asyncawaitdemo
 
 import org.junit.Test
 

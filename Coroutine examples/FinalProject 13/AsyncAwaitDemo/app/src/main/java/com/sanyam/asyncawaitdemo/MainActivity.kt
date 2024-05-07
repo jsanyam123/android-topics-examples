@@ -1,4 +1,4 @@
-package com.anushka.asyncawaitdemo
+package com.sanyam.asyncawaitdemo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

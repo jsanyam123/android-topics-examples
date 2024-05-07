@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.asyncawaitdemo'
+    namespace 'com.sanyam.asyncawaitdemo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.anushka.asyncawaitdemo"
+        applicationId "com.sanyam.asyncawaitdemo"
         minSdk 21
         targetSdk 33
         versionCode 1
