@@ -1,4 +1,4 @@
-package com.anushka.coroutinesdemo1
+package com.sanyam.coroutinesdemo1
 
 import kotlinx.coroutines.*
 
@@ -10,12 +10,12 @@ class UserDataManager2 {
         coroutineScope {
              launch(Dispatchers.IO) {
                  delay(1000)
-                 count = 50
+                 count = 100
              }
 
              deferred = async (Dispatchers.IO){
                 delay(3000)
-                return@async 70
+                return@async 700
             }
 
         }

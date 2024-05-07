@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.coroutinesdemo1'
+    namespace 'com.sanyam.coroutinesdemo1'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.anushka.coroutinesdemo1"
+        applicationId "com.sanyam.coroutinesdemo1"
         minSdk 21
         targetSdk 33
         versionCode 1
