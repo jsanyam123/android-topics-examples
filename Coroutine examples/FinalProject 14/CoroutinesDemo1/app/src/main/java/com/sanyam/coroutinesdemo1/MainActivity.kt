@@ -1,8 +1,7 @@
-package com.anushka.coroutinesdemo1
+package com.sanyam.coroutinesdemo1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 import kotlinx.coroutines.CoroutineScope
