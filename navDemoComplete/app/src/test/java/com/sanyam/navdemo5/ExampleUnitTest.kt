@@ -1,4 +1,4 @@
-package com.anushka.navdemo5
+package com.sanyam.navdemo5
 
 import org.junit.Test
 

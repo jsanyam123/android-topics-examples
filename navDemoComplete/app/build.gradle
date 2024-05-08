@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.navdemo5'
+    namespace 'com.sanyam.navdemo5'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.anushka.navdemo5"
+        applicationId "com.sanyam.navdemo5"
         minSdk 21
         targetSdk 33
         versionCode 1

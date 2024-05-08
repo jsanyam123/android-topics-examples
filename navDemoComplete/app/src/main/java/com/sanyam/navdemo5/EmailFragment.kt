@@ -1,4 +1,4 @@
-package com.anushka.navdemo5
+package com.sanyam.navdemo5
 
 
 import android.os.Bundle
@@ -11,8 +11,7 @@ import android.widget.Toast
 import androidx.core.os.bundleOf
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
-import com.anushka.navdemo5.databinding.FragmentEmailBinding
-import com.anushka.navdemo5.databinding.FragmentNameBinding
+import com.sanyam.navdemo5.databinding.FragmentEmailBinding
 
 /**
  * A simple [Fragment] subclass.
