@@ -1,0 +1,9 @@
+
+ukotlin:S11721"2Remove this unused function parameter "text_view".(ýçŸƒüÿÿÿÿJ$88416571-9b66-43d9-9b13-cac49ce9813a
+\kotlin:S125"Remove this commented out code.(²Â»¸J$39ccedc3-5994-403f-8771-93336379f646
+‹kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(›€ÌÖJ$cb34be32-b2d3-4db5-8183-6b253a417e5f
+kotlin:S1171"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ýçŸƒüÿÿÿÿJ$4b14c630-2235-4b28-8ebc-b887352410f3
+‹kotlin:S117>"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³¡œ¢J$36c644f3-49ce-4a6e-b378-d6feb59ac15a
+•kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Áº‚´üÿÿÿÿJ$3e601015-4d8b-43ad-bd20-58acd3fc91dc
+€kotlin:S1144"BRemove this unused private "getRequestWithQueryParameters" method.(›€ÌÖJ$39b75289-175d-4ba6-8a2e-f25bf69c0cba
+„kotlin:S11441"ARemove this unused private "getRequestWithPathParameters" method.(ýçŸƒüÿÿÿÿJ$a998c5ed-7fd4-4eb6-bdf0-d07c696058c9

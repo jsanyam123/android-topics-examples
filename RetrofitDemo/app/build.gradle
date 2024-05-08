@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anushka.retrofitdemo'
+    namespace 'com.sanyam.retrofitdemo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.anushka.retrofitdemo"
+        applicationId "com.sanyam.retrofitdemo"
         minSdk 21
         targetSdk 33
         versionCode 1

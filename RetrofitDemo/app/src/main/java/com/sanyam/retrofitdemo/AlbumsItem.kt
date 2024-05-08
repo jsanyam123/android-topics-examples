@@ -1,4 +1,4 @@
-package com.anushka.retrofitdemo
+package com.sanyam.retrofitdemo
 
 
 import com.google.gson.annotations.SerializedName

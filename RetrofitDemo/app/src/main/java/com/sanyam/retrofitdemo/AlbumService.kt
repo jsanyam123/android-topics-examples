@@ -1,4 +1,4 @@
-package com.anushka.retrofitdemo
+package com.sanyam.retrofitdemo
 
 import retrofit2.Response
 import retrofit2.http.*

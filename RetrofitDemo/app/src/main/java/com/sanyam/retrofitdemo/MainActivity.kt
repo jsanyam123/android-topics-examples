@@ -1,4 +1,4 @@
-package com.anushka.retrofitdemo
+package com.sanyam.retrofitdemo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun uploadAlbum(text_view: TextView) {
-        val album = AlbumsItem(0, "My title", 3)
+        val album = AlbumsItem(0, "Sanyam Jain", 21)
         val postResponse: LiveData<Response<AlbumsItem>> = liveData {
             val response = retService.uploadAlbum(album)
             emit(response)
