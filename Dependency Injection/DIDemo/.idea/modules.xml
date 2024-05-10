@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIDemo.iml" filepath="$PROJECT_DIR$/DIDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DIDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DIDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DIDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DIDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DIDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DIDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DIDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DIDemo.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

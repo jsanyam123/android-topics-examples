@@ -1,24 +1,4 @@
 
-d
-4app/src/main/java/com/anushka/didemo/MainActivity.kt,3/4/34ad97f5bd67c7c293b231db447781ad568d1caa
-b
-2app/src/main/java/com/anushka/didemo/MemoryCard.kt,2/a/2ace243c371990e5f466a86b2443f11233d41c1e
-h
-8app/src/main/java/com/anushka/didemo/MemoryCardModule.kt,a/1/a12f8d1a1c7dfbac78f427b2ceb7ca6dff31e308
-g
-7app/src/main/java/com/anushka/didemo/NCBatteryModule.kt,1/e/1ec2c82f83d0ba240d57c709a66af0bfa5b7c81a
-l
-<app/src/main/java/com/anushka/didemo/NickelCadmiumBattery.kt,a/8/a89e3d3cd466bd29c8d201a8b2de1996733efb79
-g
-7app/src/main/java/com/anushka/didemo/ServiceProvider.kt,4/8/486dac23a0a2137556e22fed6f9a6339208ddf02
-_
-/app/src/main/java/com/anushka/didemo/SIMCard.kt,8/2/829d929bbf93104ee7c71b3d0fd9212b882af0dc
-b
-2app/src/main/java/com/anushka/didemo/SmartPhone.kt,0/d/0db4aecddc626b40e0d692fcd7372f7edd9868a6
-m
-=app/src/main/java/com/anushka/didemo/SmartPhoneApplication.kt,2/5/25a3ae119861d0171b163113ac5111819c29ce32
-k
-;app/src/main/java/com/anushka/didemo/SmartPhoneComponent.kt,3/4/3418fbdbcf562849f53c55ad1224f09321013852
 g
 7app/src/main/java/com/sanyam/didemo/MemoryCardModule.kt,6/d/6d3e05489827d1987987e2a903eff0d4471f4d20
 l
@@ -41,3 +21,5 @@ u
 Eapp/src/androidTest/java/com/sanyam/didemo/ExampleInstrumentedTest.kt,0/7/0770776ea41c6ae4d5271809598c28f6628513f8
 @
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+j
+:app/src/main/java/com/sanyam/didemo/SmartPhoneComponent.kt,0/b/0b0c616b3131cc0ad016181915ce85eacbffd675
